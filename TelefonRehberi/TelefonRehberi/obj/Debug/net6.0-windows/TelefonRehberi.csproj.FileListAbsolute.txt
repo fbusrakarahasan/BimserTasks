@@ -1,0 +1,78 @@
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.exe
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.deps.json
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.runtimeconfig.json
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.pdb
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.AssemblyReference.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.GenerateResource.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.AssemblyInfoInputs.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.AssemblyInfo.cs
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\refint\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.pdb
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.genruntimeconfig.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\ref\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.CopyComplete
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.MainForm.resources
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.KisiEkle.resources
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.KisiGuncelle.resources
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.exe
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.deps.json
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.runtimeconfig.json
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.pdb
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.AssemblyReference.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.KisiEkle.resources
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.KisiGuncelle.resources
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.MainForm.resources
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.GenerateResource.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.AssemblyInfoInputs.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.AssemblyInfo.cs
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.CopyComplete
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\refint\TelefonRehberi.dll
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.pdb
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.genruntimeconfig.cache
+D:\system\Desktop\BimserCozumTask\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\ref\TelefonRehberi.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.exe
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.deps.json
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.runtimeconfig.json
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\TelefonRehberi.pdb
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.AssemblyReference.cache
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.KisiEkle.resources
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.KisiGuncelle.resources
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.MainForm.resources
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.GenerateResource.cache
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.AssemblyInfoInputs.cache
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.AssemblyInfo.cs
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.csproj.CopyComplete
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\refint\TelefonRehberi.dll
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.pdb
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\TelefonRehberi.genruntimeconfig.cache
+D:\system\Desktop\Yeni klasör\TelefonRehberi\TelefonRehberi\obj\Debug\net6.0-windows\ref\TelefonRehberi.dll
